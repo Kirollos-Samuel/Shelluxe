@@ -1,0 +1,38 @@
+# Database Configuration
+.env
+config/database.local.php
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.sql.bak
+*.backup
+database/backups/
+
+# Vendor directories (if using Composer)
+vendor/
+
+# Node modules (if using npm)
+node_modules/
+
+# Compiled files
+*.compiled
+
