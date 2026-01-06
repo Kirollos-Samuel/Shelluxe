@@ -1,0 +1,29 @@
+Designed and implemented a comprehensive relational database schema for a modern e-commerce platform specializing in bracelet sales. This project demonstrates advanced SQL skills, database normalization principles, and best practices in relational database design.
+
+Key Achievements:
+• Designed and implemented a normalized database schema with 11 core tables following Third Normal Form (3NF) principles
+• Created complex relationships with 15+ foreign key constraints ensuring data integrity
+• Developed stored procedures and triggers for automated business logic and inventory management
+• Optimized database performance with 25+ strategic indexes including composite and full-text indexes
+• Implemented views for common reporting queries and data aggregation
+• Created comprehensive documentation including ER diagrams, design decisions, and query examples
+
+Technical Skills Demonstrated:
+• SQL (Intermediate Level - HackerRank Certified)
+• Database Schema Design & Normalization
+• MySQL/MariaDB
+• Entity-Relationship Modeling
+• Stored Procedures & Triggers
+• Database Optimization & Indexing
+• Data Integrity & Constraints
+• Complex SQL Queries (JOINs, Subqueries, Aggregations)
+
+Project Highlights:
+- Complete database schema with users, products, orders, cart, wishlist, reviews, and payment systems
+- Automated stock management through database triggers
+- Full-text search capabilities for product catalog
+- Comprehensive sample data and 23+ example SQL queries
+- Professional documentation covering design decisions and ER relationships
+
+Repository: https://github.com/Kirollos-Samuel/Shelluxe
+

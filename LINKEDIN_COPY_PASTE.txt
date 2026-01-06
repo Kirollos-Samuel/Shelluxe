@@ -1,0 +1,14 @@
+Shelluxe E-commerce Database Design
+
+Designed and implemented a comprehensive relational database for an e-commerce platform with 11 normalized tables, complex relationships, stored procedures, and triggers. Demonstrated SQL intermediate-level skills (HackerRank certified) through advanced query optimization, data integrity constraints, and automated business logic implementation.
+
+Technologies: MySQL, SQL, Database Design, Normalization, Stored Procedures, Triggers, Views
+
+Key Features:
+• 11 normalized tables with 15+ foreign key relationships
+• Automated inventory management via triggers
+• Performance optimization with 25+ indexes
+• Comprehensive documentation and ER diagrams
+
+GitHub: https://github.com/Kirollos-Samuel/Shelluxe
+

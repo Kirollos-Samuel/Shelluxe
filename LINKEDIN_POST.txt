@@ -1,0 +1,16 @@
+Excited to share my latest database design project! 🗄️
+
+I've designed and implemented a comprehensive relational database for an e-commerce platform, demonstrating SQL intermediate-level skills (HackerRank certified).
+
+Key Highlights:
+✅ 11 normalized tables with complex relationships
+✅ Automated business logic via triggers & stored procedures  
+✅ Performance optimization with strategic indexing
+✅ Complete documentation with ER diagrams
+
+This project showcases my expertise in database design, normalization, and SQL optimization.
+
+Check it out: https://github.com/Kirollos-Samuel/Shelluxe
+
+#SQL #DatabaseDesign #MySQL #DataEngineering #SoftwareDevelopment
+
